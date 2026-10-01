@@ -22,5 +22,5 @@ A mix of detection/response tooling I've built and red-team/offensive-security r
 ---
 📫 Reach me via the any of the means below:
 - Email protector247@gmail.com
-- Visit https://www.linkedin.com/in/josephola/
+- DM https://www.linkedin.com/in/josephola/
 - Read my post on https://medium.com/@ojosephoyeyemi
