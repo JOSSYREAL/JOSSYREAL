@@ -20,4 +20,7 @@ Google Cloud Professional Cloud Security Engineer · Google Cloud Professional C
 A mix of detection/response tooling I've built and red-team/offensive-security references I study and test against, to inform better detections.
 
 ---
-📫 Reach me via the links on my profile.
+📫 Reach me via the any of the means below:
+- Email protector247@gmail.com
+- https://www.linkedin.com/in/josephola/
+- https://medium.com/@ojosephoyeyemi
