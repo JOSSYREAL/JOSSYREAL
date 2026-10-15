@@ -27,20 +27,28 @@ while curious:
 
 ## 🚀 Projects
 
-**Agentic alert triage (CSIR)**: https://ojosephoyeyemi.medium.com/building-an-ai-soc-analyst-that-knows-when-not-to-act-334db07676bd
-LangGraph pipeline that ingests alerts from Google SecOps, CrowdStrike, and Wiz, enriches them with context, produces LLM-generated verdicts, and sends the result to Slack for analysts. Runs containerized with Docker Compose.
+### 🤖 Agentic alert triage (CSIR)
+LangGraph pipeline that ingests alerts from Google SecOps, CrowdStrike, and Wiz, enriches them with context, produces LLM-generated verdicts, and sends the result to Slack for analysts.
+`LangGraph` `Python` `Docker Compose` `Google SecOps` `CrowdStrike` `Wiz`
+📖 [Building an AI SOC analyst that knows when not to act](https://ojosephoyeyemi.medium.com/building-an-ai-soc-analyst-that-knows-when-not-to-act-334db07676bd)
 
-**Detection-as-Code pipeline**: https://ojosephoyeyemi.medium.com/your-detection-rules-suck-and-its-not-your-fault-a-story-of-detection-as-code-3addf667aa50
+### 🧬 Detection-as-Code pipeline
 YARA-L 2.0 rules deployed to Google SecOps through Python scripts and GitLab CI, with version control and review. Hundreds of rules across cloud audit, Kubernetes, identity, and SaaS log sources, tuned from real noise analysis on production logs.
+`YARA-L` `Google SecOps` `GitLab CI` `Python`
+📖 [Your detection rules suck (and it's not your fault)](https://ojosephoyeyemi.medium.com/your-detection-rules-suck-and-its-not-your-fault-a-story-of-detection-as-code-3addf667aa50)
 
-**PhishCamp**: https://ojosephoyeyemi.medium.com/building-phishcamp-a-modern-phishing-simulation-security-awareness-platform-b47804a03f33
-Internal phishing simulation platform.
+### 🎣 PhishCamp
+GoPhish-based internal phishing simulation and security awareness platform.
+`GoPhish` `Security Awareness`
+📖 [Building PhishCamp](https://ojosephoyeyemi.medium.com/building-phishcamp-a-modern-phishing-simulation-security-awareness-platform-b47804a03f33)
 
-**GRC Policy acknowledgement bot**
+### 📋 GRC policy acknowledgement bot
 Google Apps Script and Cloud Run system that distributes compliance policies.
+`Google Apps Script` `Cloud Run` `GCP`
 
-**CustomAI**
+### 📞 CustomAI
 Customer support AI agent using Twilio for voice and SMS.
+`Twilio` `Voice` `SMS`
 
 ## 🛠️ Tools & Tech
 `CrowdStrike Falcon` `Google SecOps SIEM/SOAR` `Splunk` `QRadar` `Sentinel` `IBM QRadar` `ArcSight` `Rapid7`
