@@ -6,7 +6,7 @@ For 5+ years now, I've been engineering defenses that make breaking things harde
 
 My path runs from software engineering and Python-driven data science into cybersecurity, and one thing has driven it the whole way: curiosity about how systems work, where they fail, and how to make them more resilient.
 
-Today I'm Lead, Incident Response at Moniepoint Group. I work across detection engineering, threat hunting, security automation, digital forensics, and incident response, with a growing focus on the **Agentic SOC** and AI-driven security operations.
+I work across detection engineering, threat hunting, security automation, digital forensics, and incident response, with a growing focus on the **Agentic SOC** and AI-driven security operations.
 
 What excites me most is connecting adversarial thinking with engineering to build security systems that do more than generate alerts: systems that correlate evidence, speed up investigations, and make response effective.
 
