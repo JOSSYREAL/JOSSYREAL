@@ -27,7 +27,7 @@ while curious:
 
 ## 🚀 Projects
 
-### 🤖 Agentic alert triage (CSIR)
+### 🤖 Tier2 SOC Analyst AI Agent (CSIR)
 LangGraph pipeline that ingests alerts from Google SecOps, CrowdStrike, and Wiz, enriches them with context, produces LLM-generated verdicts, and sends the result to Slack for analysts.
 `LangGraph` `Python` `Docker Compose` `Google SecOps` `CrowdStrike` `Wiz`
 📖 [Building an AI SOC analyst that knows when not to act](https://ojosephoyeyemi.medium.com/building-an-ai-soc-analyst-that-knows-when-not-to-act-334db07676bd)
@@ -38,8 +38,8 @@ YARA-L 2.0 rules deployed to Google SecOps through Python scripts and GitLab CI,
 📖 [Your detection rules suck (and it's not your fault)](https://ojosephoyeyemi.medium.com/your-detection-rules-suck-and-its-not-your-fault-a-story-of-detection-as-code-3addf667aa50)
 
 ### 🎣 PhishCamp
-GoPhish-based internal phishing simulation and security awareness platform.
-`GoPhish` `Security Awareness`
+Internal phishing simulation and security awareness platform.
+`Phishing` `Security Awareness`
 📖 [Building PhishCamp](https://ojosephoyeyemi.medium.com/building-phishcamp-a-modern-phishing-simulation-security-awareness-platform-b47804a03f33)
 
 ### 📋 GRC policy acknowledgement bot
