@@ -30,14 +30,8 @@ while curious:
 **Agentic alert triage (CSIR)**: https://ojosephoyeyemi.medium.com/building-an-ai-soc-analyst-that-knows-when-not-to-act-334db07676bd
 LangGraph pipeline that ingests alerts from Google SecOps, CrowdStrike, and Wiz, enriches them with context, produces LLM-generated verdicts, and sends the result to Slack for analysts. Runs containerized with Docker Compose.
 
-**Detection health & QA agent (CSIRAS)**: 
-Agent that keeps the detection estate healthy: finds noisy rules, runs static rule-quality analysis, monitors log sources for downtime, and includes a purple-team-as-code simulation capability.
-
 **Detection-as-Code pipeline**: https://ojosephoyeyemi.medium.com/your-detection-rules-suck-and-its-not-your-fault-a-story-of-detection-as-code-3addf667aa50
 YARA-L 2.0 rules deployed to Google SecOps through Python scripts and GitLab CI, with version control and review. Hundreds of rules across cloud audit, Kubernetes, identity, and SaaS log sources, tuned from real noise analysis on production logs.
-
-**AI incident reporting (in design)**
-Platform that takes multi-modal inputs and generates severity-tiered incident reports.
 
 **PhishCamp**: https://ojosephoyeyemi.medium.com/building-phishcamp-a-modern-phishing-simulation-security-awareness-platform-b47804a03f33
 Internal phishing simulation platform.
